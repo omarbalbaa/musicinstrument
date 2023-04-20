@@ -5,7 +5,7 @@ Arduino UNO <br />
 Breadboard <br />
 Ultrasonic sensor HC - SR04 <br />
 Piezo Buzzer <br />
-Force sensitive resistor FSR402 *can be replaced with a push button.*
+Force sensitive resistor FSR402 -can be replaced with a push button.-<br />
 #Connections and simulation on Tinkercad
 https://www.tinkercad.com/things/8mCw5Aqzh0Q
 #Prototype
